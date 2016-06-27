@@ -15,5 +15,9 @@ RUNNING THE SCRIPTS
 -------------------
 On your terminal , type -
 <pre> git clone git@github.com:athityakumar/ntlk-examples.git</pre>
-<pre> cd nltk-examples </pre>
+<pre> cd nltk-examples/scripts </pre>
 <pre> python python-file-name.py </pre> 
+
+LICENSE 
+-------
+Licensed under GNU General Public License v3.0 (GPLv3).
