@@ -10,3 +10,10 @@ On your terminal, type -
 In the python console, type -
 <pre> import nltk </pre>
 <pre> nltk.download('all') </pre>
+
+RUNNING THE SCRIPTS
+-------------------
+On your terminal , type -
+<pre> git clone git@github.com:athityakumar/ntlk-examples.git</pre>
+<pre> cd nltk-examples </pre>
+<pre> python python-file-name.py </pre> 
