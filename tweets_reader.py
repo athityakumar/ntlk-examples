@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.decomposition import NMF
 
 def database_login() :
-  return MySQLdb.connect(host="localhost",user="root",passwd="password",db="database") 
+  return MySQLdb.connect(host="localhost",user="root",passwd="ROMYathi",db="pipecandy") 
   
 def database_read(table_name) :
   cur = database_login().cursor()
