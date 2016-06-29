@@ -17,7 +17,8 @@ On your terminal , type -
 <pre> git clone git@github.com:athityakumar/ntlk-examples.git</pre>
 <pre> cd nltk-examples/scripts </pre>
 <pre> python python-file-name.py </pre> 
-<br> Don't forget to give the password & database name in tweets_reader.py
+<br> Don't forget to give your database credentials in tweets_database.py
+
 LICENSE 
 -------
 Licensed under GNU General Public License v3.0 (GPLv3).
